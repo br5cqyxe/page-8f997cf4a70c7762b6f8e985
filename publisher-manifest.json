@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "db5ffb4d58b94a0894fc5765",
+  "owner": "br5cqyxe",
+  "repo": "page-8f997cf4a70c7762b6f8e985",
+  "title": "weyolo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8f997cf4a70c7762b6f8e985",
+      "a": "weyolo",
+      "b": "",
+      "entity": "weyolo",
+      "brand": "weyolo",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9d426e595cc0d64f621f5bd7f37244fa63a4ffae18653775ac6d324747bf0d8f",
+      "content": {
+        "keyword1": "weyolo",
+        "keyword2": "",
+        "primary_entity": "weyolo",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "weyolo 为您提供冷静、克制且高效的深度网络连接与协议定制服务。探索我们的长文叙事与专业方案。",
+          "AI_DESCRIPTION": "weyolo 为您提供冷静、克制且高效的深度网络连接与协议定制服务。探索我们的长文叙事与专业方案。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #0b0c0e;--text-color: #d1d5db;--accent-color: #00ff66;--card-bg: #131519;--border-color: #22262d;--muted-color: #6b7280}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.7;padding: 0 1rem}\nheader {max-width: 960px;margin: 2rem auto 1rem;padding-bottom: 1rem;border-bottom: 1px solid var(--border-color)}\n.breadcrumb {font-size: 0.85rem;color: var(--muted-color);margin-bottom: 0.5rem}\n.breadcrumb a {color: var(--accent-color);text-decoration: none}\nnav.toc {display: flex;flex-wrap: wrap;gap: 1.5rem;font-size: 0.9rem}\nnav.toc a {color: var(--text-color);text-decoration: none}\nnav.toc a:hover {color: var(--accent-color)}\nmain {max-width: 960px;margin: 0 auto}\nsection {margin: 4rem 0}\nh1 {font-size: 3rem;color: #fff;margin-bottom: 1.5rem;letter-spacing: -0.05em}\nh2 {font-size: 2rem;color: #fff;margin-bottom: 1.5rem;border-left: 4px solid var(--accent-color);padding-left: 0.75rem}\nh3 {font-size: 1.25rem;color: #fff;margin-bottom: 0.75rem}\np {margin-bottom: 1.25rem}\n.hero-narrative {font-size: 1.15rem;color: #e5e7eb}\n.grid-cards {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem;margin-top: 2rem}\n.card {background-color: var(--card-bg);border: 1px solid var(--border-color);padding: 2rem;position: relative;overflow: hidden}\n.card-number {position: absolute;bottom: -1rem;right: 1rem;font-size: 5rem;font-weight: 900;color: rgba(255, 255, 255, 0.03);z-index: 0;pointer-events: none}\n.card > * {position: relative;z-index: 1}\n.table-container {width: 100%;overflow-x: auto;margin-top: 2rem}\ntable {width: 100%;border-collapse: collapse;text-align: left;background-color: var(--card-bg);border: 1px solid var(--border-color)}\nth, td {padding: 1rem;border-bottom: 1px solid var(--border-color)}\nth {color: #fff;background-color: #1a1e24}\ntr:last-child td {border-bottom: none}\n.highlight-cell {color: var(--accent-color);font-weight: bold}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem;margin-top: 2rem}\n@media (max-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr}\n  h1 {font-size: 2.2rem}\n}\n.faq-item {background-color: var(--card-bg);border: 1px solid var(--border-color);padding: 1.5rem}\nfooter {max-width: 960px;margin: 4rem auto 2rem;padding-top: 1.5rem;border-top: 1px solid var(--border-color);text-align: center;color: var(--muted-color);font-size: 0.85rem}\n</style><header>\n  <div class=\"breadcrumb\">\n    <a href=\"#\">首页</a> &gt; <span>叙事专栏</span> &gt; <span>服务与方案</span>\n  </div>\n  <nav class=\"toc\">\n    <a href=\"#hero\">开篇叙事</a>\n    <a href=\"#guidance\">连接引导</a>\n    <a href=\"#plans\">方案比较</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <article>\n    <section id=\"hero\">\n      <h1>weyolo</h1>\n      <div class=\"hero-narrative\">\n        <p>为什么在信息繁杂的当下，我们需要重新审视每一次字节的跃迁？网络连接不应当是充满噪声与不确定性的试错过程。weyolo 自诞生之日起，便试图剥离那些浮夸的营销包装，将目光聚焦于传输本身的纯粹性、稳定度与架构的严谨性。</p>\n        <p>我们常常问自己：用户真正需要的究竟是什么？是一个华丽的数字，还是在深夜里依然稳如磐石的响应速度？weyolo 选择了一条少有人走的路径——通过克制的资源分配与精密的专线优化，为那些对网络品质有着极高要求的探索者提供安静、可靠的底层支撑。</p>\n      </div>\n    </section>\n\n    <section id=\"guidance\">\n      <h2>如何开始使用 weyolo？</h2>\n      <p>面对全新的连接环境，您可能会有这样的疑问：我该如何选择适合自己的配置？又该如何确保接入过程的平稳？</p>\n      <div class=\"grid-cards\">\n        <div class=\"card\">\n          <div class=\"card-number\">01</div>\n          <h3>评估您的真实带宽需求</h3>\n          <p>您是否需要频繁传输大文件？日常的网页浏览与高强度的数据吞吐有着本质区别。审视您的月度消耗，避免资源冗余。</p>\n        </div>\n        <div class=\"card\">\n          <div class=\"card-number\">02</div>\n          <h3>挑选契合的接入方案</h3>\n          <p>从日常的基础连接到高并发的团队协作，weyolo 提供层次分明的选项。没有复杂的隐形条款，一切以契约为准。</p>\n        </div>\n        <div class=\"card\">\n          <div class=\"card-number\">03</div>\n          <h3>完成配置并投入使用</h3>\n          <p>按照简洁的指引导入订阅或配置参数，整个过程在数分钟内即可完成，随即进入低延迟、高吞吐的数字世界。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"plans\">\n      <h2>方案与定价</h2>\n      <p>我们坚信，清晰透明的定价是对使用者最大的尊重。以下是 weyolo 当前提供的标准服务层级。</p>\n      <div class=\"table-container\">\n        <table>\n          <thead>\n            <tr>\n              <th>方案名称</th>\n              <th>月付价格</th>\n              <th>年付优惠</th>\n              <th>核心权益</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <td><strong>基础版</strong></td>\n              <td>¥15/月</td>\n              <td>按年付仅需 ¥150/年</td>\n              <td>每月 100GB 极速流量 / 支持 3 台设备 / 基础流媒体解锁</td>\n            </tr>\n            <tr>\n              <td><strong>旗舰版</strong></td>\n              <td class=\"highlight-cell\">¥35/月</td>\n              <td class=\"highlight-cell\">按年付仅需 ¥350/年</td>\n              <td>每月 300GB 极速流量 / 支持 5 台设备 / IPLC 专线优化 / 全节点原生解锁</td>\n            </tr>\n            <tr>\n              <td><strong>团队版</strong></td>\n              <td>¥85/月</td>\n              <td>按年付仅需 ¥850/年</td>\n              <td>每月 1000GB 极速流量 / 支持 20 台设备 / 企业定制路由 / 专属经理</td>\n            </tr>\n          </tbody>\n        </table>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <h2>常见问题</h2>\n      <p>在您做出决定前，我们整理了以下几个核心疑问，希望能够消除您的顾虑。</p>\n      <div class=\"faq-grid\">\n        <div class=\"faq-item\">\n          <h3>Q: weyolo 的连接是否支持全平台设备？</h3>\n          <p>A: 是的。无论是桌面端的主流操作系统，还是移动端的各类型终端，weyolo 均提供适配的协议指南与兼容支持，确保多设备无缝切换。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>Q: 如果在使用过程中遇到波动该如何处理？</h3>\n          <p>A: 我们拥有完善的监控机制。如遇节点波动，系统会自动进行智能路由调度。旗舰版与团队版用户更可享受专属工单与优先响应服务。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>Q: 年付方案是否支持中途升级或调整？</h3>\n          <p>A: 支持。您可以在用户面板中根据实际业务增长随时申请升级至更高阶的方案，系统会自动计算差额与剩余时长。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>Q: 团队版是否支持多账户独立管理？</h3>\n          <p>A: 团队版专为协同工作设计，支持灵活的设备配额分配与独立流量审计，满足小型团队与工作室的统一管控需求。</p>\n        </div>\n      </div>\n    </section>\n  </article>\n</main>\n\n<footer>\n  <p>© weyolo Brand. All rights reserved. 以克制之美，构建稳定连接。</p>\n</footer>",
+          "hash": "b3e1266cd6ce0f074e34df0153a9676889b5f5422f14bec7c9fa9a06b650375e",
+          "seo": {
+            "title": "weyolo - 深度网络连接与协议定制服务",
+            "keywords": "weyolo, 网络连接, 协议定制, 专线服务, 流量包",
+            "description": "weyolo 为您提供冷静、克制且高效的深度网络连接与协议定制服务。探索我们的长文叙事与专业方案。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "1420",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tygrgjo.cn",
+    "host": "p-7b41dbe3d2.tygrgjo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d3e65f134dab86f7b9d17381bfe7940933ab40d6934bc45364be94b7fbe6de75",
+    "sitemap.xml": "f413167338dcdd3caaf086ee89ce7c7e505ec98aec9cd9f4f1da77d8c6559187",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1b2ab23b35f851059cca2b5ec5d4777510b50ce504effcf8c2f66182c163a06b",
+    "robots.txt": "9ebc2e79fc03bc6693a14372bbfe6cd7fe2fb57dac6bd7bd4f8a43cfb5119acb",
+    "44fa2d672b97926a33964416e21eca1e.txt": "4cafb0310ccf230bafd30967d2da97a359a2c14f4956a508bb818fe19eee8046"
+  },
+  "revision": "b41b849db4181882f8125abd76a8fd94925e7d710023f691228ad1f2db32a443"
+}
